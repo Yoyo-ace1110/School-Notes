@@ -1,0 +1,21 @@
+# ---set account---
+git config --global user.name "ace1110"   # 設定帳號名
+git config --global user.email "liaojiayouy@gmail.com" # 設定帳號email
+
+git config --global user.name               # 查詢帳號名
+git config --global user.email              # 查詢帳號email
+
+git config --list # 檢查 (Q可以中斷)
+
+# ---clone dir---
+git clone "The url of Repositories(https://github.com/Yoyo-ace1110/{Repositories_name})" # 複製 github dir
+
+# ---release---
+git add .              # 暫存 all dir
+git add "file_name"    # 暫存 file
+git restore --staged . # 取消
+
+git commit -m "massage" # 提交
+git reset HEAD~1        # 刪除最新的提交紀錄 並將變更的內容保留在工作目錄中
+
+git push                # push to github
