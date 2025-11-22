@@ -20,9 +20,9 @@ H2
 
 --- 
 上面是分隔線 這裡是一般內文  
-[Tab]縮排  
----
-> 引用  
+&emsp;縮排1  
+&ensp;縮排2  
+&nbsp;縮排3  
 
 行末按兩個空格=換行
 
@@ -45,16 +45,18 @@ H2
 
 名詞
 : 解釋  
+名詞
 ~ 定義  
+
 `內容`  
 <網址或mail>  
  [Tab] jo  
 [Google][1]  
 [Yahoo][2]  
 [MSN][3]  
-[1]: http://google.com/        "游標顯示"  
-[2]: http://search.yahoo.com/  "游標顯示"  
-[3]: http://search.msn.com/    "游標顯示"  
+[1]: http://google.com/        
+[2]: http://search.yahoo.com/  
+[3]: http://search.msn.com/    
 
 [顯示link](https://github.com/Yoyo-ace1110/-)  
 ![ 圖名 ](相對位置/圖片網址)  
