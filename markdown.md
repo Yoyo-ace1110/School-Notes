@@ -14,7 +14,16 @@ H2
 ==螢光標記==  
 ::: hi 
 
->[!]  
+>[!Note]  
+
+>[!Tip]  
+
+>[!Important]
+
+>[!Warning]
+
+>[!Caution]
+
 >引用
 >第一層
 >>第二層
