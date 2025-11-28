@@ -1,6 +1,6 @@
 # ---set account---
 git config --global user.name "ace1110"   # 設定帳號名
-git config --global user.email "liaojiayouy@gmail.com" # 設定帳號email
+git config --global user.email "***@gmail.com" # 設定帳號email
 
 git config --global user.name               # 查詢帳號名
 git config --global user.email              # 查詢帳號email
