@@ -52,3 +52,7 @@ dump 垃圾場/拋棄;亂丟;扔下
 dazzle 使...感到刺眼/使...讚嘆
 pursue 追捕/追查;追問/追求;從事
 marvellous (extremely good)
+apparent 明顯的
+discipline 紀律 約束
+mandatory 法定的 強制的
+retain 保持 保留 保有 保存

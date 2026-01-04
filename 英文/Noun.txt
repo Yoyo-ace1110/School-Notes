@@ -20,7 +20,6 @@ civilian 平民百姓
 beggar 乞丐/傢夥
 bride 新娘
 (bride)groom 新郎
-burglar 竊賊
 cacndidate 候選人
 capitalist 資本家
 accountant 會計師
@@ -28,9 +27,11 @@ ambassador 大使
 colleague 同事
 composer 作曲家
 consultant 顧問
-coward 膽小鬼 懦夫
 diplomat 外交官
 embassy 大使館
 orchestra 管弦樂隊
 symphony 交響曲
-
+applause 掌聲
+warrior 戰士
+vehicle (陸上)交通工具
+chimpanzee 黑猩猩

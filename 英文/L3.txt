@@ -13,7 +13,7 @@ permit 允許
 region 區域 地區
 literal 字面的
 firm 堅定的;堅固的;結實的/事務所;商行
-invest 投資(廣)
+invest 投資(廣義)
 maintain 維持 保持
 mature 成熟的
 authority 權威 當局
@@ -35,7 +35,7 @@ capable 有能力的 熟練的
     (Capacitor電容)
 formal 正式的
 [prohibit 禁止 exhibit 展示]
-impact ...的巨大影響
+impact 影響/...的巨大影響
 surgery 外科手術
 distract 使分心 干擾
 optimistic 樂觀的
@@ -65,3 +65,10 @@ obedient 服從 聽話
 privilege 特權 榮幸
 bare 赤裸的
     (barely 幾乎沒有 僅僅)
+numerous 很多的(many)
+establish 創立 建立
+infer 推論 推斷
+lane 巷子(胡同) (車/跑/航)道
+injustice 不公正 不正義
+prejudice 偏見 歧視
+

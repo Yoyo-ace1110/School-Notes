@@ -28,3 +28,4 @@ export import的相反
 steam 蒸汽 => 蒸(食物)/蒸汽火車
 stir 攪動 攪拌
 deaf 耳聾的
+film 電影;影片/膠捲;底片
