@@ -53,14 +53,10 @@ loyal 忠實的 忠誠的(較正式)
 conservative 保守的
 conventional 傳統的
 ambitious 有野心的(+)
-conquer 克服
-    (devide and conquer 分治法)
-proper 適合的 恰當的
 crisis 危機 困難時期
 primary 主要的/起源的;最初的
     (小學:primary school)
 hesitate 猶豫
-persuade 說服
 obedient 服從 聽話
 privilege 特權 榮幸
 bare 赤裸的
@@ -70,5 +66,17 @@ establish 創立 建立
 infer 推論 推斷
 lane 巷子(胡同) (車/跑/航)道
 injustice 不公正 不正義
-prejudice 偏見 歧視
-
+illegal 非法
+mass 大量的 大規模
+obedien... 服從 聽話
+    obedience (n)
+    obedient  (adj)
+persua... 說服
+    persuade   (v)
+    persuasive (adj)
+    persuasion (n)
+resolve 化解;解決/決定;決心
+severe 非常嚴重的 極度的
+stingy 吝嗇的
+stubborn 頑固的 難以改變的
+temper 脾氣🔥 情緒

@@ -21,3 +21,4 @@
 # aware 意識到的
 # alert 警戒 警報
 # declare 宣告
+# aggressive 好鬥的 挑釁的 積極進取的

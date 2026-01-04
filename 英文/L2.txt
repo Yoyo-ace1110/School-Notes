@@ -18,7 +18,7 @@ opportune 合適的
 conduct 實施 進行
     (conductive 導電或導熱的)
 condition 狀況
-energetic 充滿活力的
+energetic 充滿活力的⚡
 advance 進步
 advantage 優勢
 anxiety 焦慮
@@ -43,7 +43,7 @@ despite 儘管 無論
 [board 板子, aboard 登上(交通工具), broad 寬廣的, abroad 國外]
 engage 吸引住 使感興趣
 steady 穩定的 持續的
-mobile 活動的 行動的
+mobile 活動的 行動的 📱📞
 throughout 自始至終
 # access 存取 途徑
 significant 顯著的 
@@ -53,15 +53,14 @@ section 部分 片段
 afford 負擔的起 
     (can+afford 買得起)
     (affordable 買得起的)
-# swift 敏捷的
-territory 領土 領地
-# recognize 認出 認可 認定 識別
-# thread 線 線狀物/執行緒
-# vessel 船艦/血管
-# aggressive 好鬥的 挑釁的 積極進取的
+swift 敏捷的
+territory 領土 領地 🚩
+recognize 認出 認可 認定 識別
+thread 線 線狀物/執行緒
+vessel 船艦/血管
 pollute 污染
 effort 精力 努力
-substance 物質
+substance 物質 ⌬⚛
 odd 古怪的
 awkward 尷尬的、笨拙的
 concern 使...worry;擔憂/與…相關;關於...的
@@ -77,7 +76,7 @@ essential 必要的
 immigrate 移民(外來的, 動詞)
 [consume 消耗, costume (特別的)服裝]
 obvious 明顯的
-fund 資金 基金
+fund 資金💰 基金 
 refund 退還($)
 transport 運輸
 accomplish 達成(成就)
@@ -90,7 +89,7 @@ promote 促進 推廣/晉升
 contact 聯繫 聯絡 接觸 有"關係"
 decade 十年 一代
 career 生涯 職業 事業
-medical 醫學的 醫療的
+medical 醫學的 醫療的 💊🩺🩹
 supply 提供 供給
 mission 任務 使命
     (mission impossible)
@@ -99,3 +98,14 @@ academic 學術的
 occur (意外事件的)發生
 religion 宗教信仰
 struggle 奮鬥 努力 掙扎
+compete 競爭
+court 球場/法院⚖️
+passive 被動的;消極的
+overcome 克服;攻克
+resolut... 堅決 決心
+    resolute   (adj)
+    resolution (n)
+retire 退休
+conquer 克服
+    (devide and conquer 分治法)
+proper 適合的 恰當的

@@ -33,5 +33,4 @@ orchestra 管弦樂隊
 symphony 交響曲
 applause 掌聲
 warrior 戰士
-vehicle (陸上)交通工具
 chimpanzee 黑猩猩
