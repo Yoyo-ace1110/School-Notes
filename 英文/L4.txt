@@ -1,4 +1,3 @@
-privilege 特權 榮幸
 hasten 加快 趕緊
 redundant 不需要的
 astonish 驚人
@@ -18,7 +17,7 @@ incident 事件(偏負面)
 barrier 障礙物
 trend 趨勢
 fascinated 極感興趣的 著迷的
-alpine 阿爾卑斯山 -> 高山
+alpine 阿爾卑斯山 -> (高山)
 sacred 神聖的
 encounter 不期而遇
 embrace 欣然接受 樂意採納
@@ -37,16 +36,19 @@ vehicle 車輛(總稱)
 conscious 有意識的
 elegant 優雅的(整體)
 graceful 優雅的(動作)
-courtesy 禮貌 polite (behavior/action)
+courtesy 禮貌;polite (behavior/action)
 faint 微弱的 暈眩
 intimate 親密的
-panel 專家小組/控制板/鑲嵌板
 crave 渴望
 unwind 鬆開 放鬆
-sparkle 閃/(有)活力 生氣
+sparkle 閃/(有)活力;生氣
 serene 平靜的 安詳的
 paradise 天堂 樂園
 winding (道路或河流等)蜿蜒的
 reform 改進 改造
 overlook 俯瞰 俯視
 victim 受害者 罹難者 犧牲者
+dump 垃圾場/拋棄;亂丟;扔下
+dazzle 使...感到刺眼/使...讚嘆
+pursue 追捕/追查;追問/追求;從事
+marvellous (extremely good)

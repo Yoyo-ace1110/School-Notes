@@ -20,3 +20,4 @@
 # appearance 外貌
 # aware 意識到的
 # alert 警戒 警報
+# declare 宣告

@@ -1,29 +1,30 @@
 due 預期的 
-    (due to -> 由於 因爲)
+    (due to 由於 因爲)
 tragic 悲慘的
-form 表單/形成 組成/形式
+burst 爆裂
+form 形成;組成/形式/表單
 hire 租 僱用
-    (awful lot -> 特別多的)
 desire 慾望
 attend 出席
-appeal 求助 懇求 呼籲/有吸引力的
+appeal 求助;懇求;呼籲/有吸引力的
 # entire 完全的 全部的
 extend 延伸 延長
 adventure 冒險 奇遇
 charm 吸引住... 使...著迷
 # process 過程
-# declare 宣告
-abandon 拋棄
-# opportune 合適的 
+# abandon 拋棄
+opportune 合適的 
     (opportunity 機會)
 conduct 實施 進行
     (conductive 導電或導熱的)
 condition 狀況
-# energetic 充滿活力的
+energetic 充滿活力的
 advance 進步
 advantage 優勢
 anxiety 焦慮
-attract 吸引
+# attract 吸引
+    (attraction 景點 有吸引力的事物)
+    (attractive 吸引人的)
 potential 潜在的
 reveal 揭露
 extensive 廣泛的 
@@ -50,7 +51,8 @@ category 類別 範疇
 halfway 一半的 不完全的 
 section 部分 片段
 afford 負擔的起 
-    (can+afford 買得起, affordable 買得起的)
+    (can+afford 買得起)
+    (affordable 買得起的)
 # swift 敏捷的
 territory 領土 領地
 # recognize 認出 認可 認定 識別
@@ -62,7 +64,7 @@ effort 精力 努力
 substance 物質
 odd 古怪的
 awkward 尷尬的、笨拙的
-concern 使...worry 擔憂/與…相關 關於...的
+concern 使...worry;擔憂/與…相關;關於...的
 measure 方法/測量 衡量
 convention 習俗 
     (conventional 傳統的 普通的)
@@ -91,4 +93,5 @@ career 生涯 職業 事業
 medical 醫學的 醫療的
 supply 提供 供給
 mission 任務 使命
-  mission impossible
+    (mission impossible)
+somehow 不知怎麼地

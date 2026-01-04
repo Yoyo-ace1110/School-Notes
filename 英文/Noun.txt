@@ -32,3 +32,5 @@ coward 膽小鬼 懦夫
 diplomat 外交官
 embassy 大使館
 orchestra 管弦樂隊
+symphony 交響曲
+
