@@ -1,7 +1,8 @@
+burst 爆裂
 due 預期的 
     (due to 由於 因爲)
 tragic 悲慘的
-burst 爆裂
+brief 短暫的;簡短的
 form 形成;組成/形式/表單
 hire 租 僱用
 desire 慾望
@@ -9,7 +10,7 @@ attend 出席
 appeal 求助;懇求;呼籲/有吸引力的
 # entire 完全的 全部的
 extend 延伸 延長
-adventure 冒險 奇遇
+adventure 冒險🗺️ 奇遇
 charm 吸引住... 使...著迷
 # process 過程
 # abandon 拋棄
@@ -35,7 +36,7 @@ intention 意圖 打算
 boundary 邊界
 routine 例行的
 honor 榮譽 
-medal 獎牌 勳章
+medal 獎牌🏅 勳章
 invent 發明 創造
 despite 儘管 無論
 [reverse 倒轉, reserve 把…留給 預約]
@@ -64,7 +65,7 @@ substance 物質 ⌬⚛
 odd 古怪的
 awkward 尷尬的、笨拙的
 concern 使...worry;擔憂/與…相關;關於...的
-measure 方法/測量 衡量
+measure 方法/測量📏 衡量
 convention 習俗 
     (conventional 傳統的 普通的)
 investigate 調查 審查 (真相)
@@ -89,7 +90,7 @@ promote 促進 推廣/晉升
 contact 聯繫 聯絡 接觸 有"關係"
 decade 十年 一代
 career 生涯 職業 事業
-medical 醫學的 醫療的 💊🩺🩹
+medical 醫學的 醫療的 💊
 supply 提供 供給
 mission 任務 使命
     (mission impossible)
@@ -109,3 +110,5 @@ retire 退休
 conquer 克服
     (devide and conquer 分治法)
 proper 適合的 恰當的
+groceries (吃的)雜貨
+insist 堅持 

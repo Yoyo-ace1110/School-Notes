@@ -4,7 +4,6 @@ astonish 驚人
 sibling 兄弟
 flood 洪水
 neglected 被忽視的
-aspect 方面
 demand 強烈要求
 discard 拋棄 
 rumour 傳聞
@@ -24,7 +23,6 @@ embrace 欣然接受 樂意採納
 committee 委員會
 trivial 微不足道的
 minister 部長 大臣
-brief 短暫的
 administration 管理 行政
 intense 強烈的
 delight 欣喜;滿足;愜意
@@ -65,3 +63,4 @@ agenda 議程;(待辦)事項
 wicked 邪惡的😈 缺德的
 tender 溫柔的
 youthful 年輕的 有朝氣的
+tactic 策略 手法

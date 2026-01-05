@@ -20,8 +20,7 @@ civilian 平民百姓
 beggar 乞丐/傢夥
 bride 新娘
 (bride)groom 新郎
-cacndidate 候選人
-capitalist 資本家
+candidate 候選人
 accountant 會計師
 ambassador 大使
 colleague 同事
@@ -34,3 +33,5 @@ symphony 交響曲
 applause 掌聲
 warrior 戰士
 chimpanzee 黑猩猩
+orphan 孤兒
+moisture 水氣 濕氣
