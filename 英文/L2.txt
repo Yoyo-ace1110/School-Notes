@@ -104,11 +104,15 @@ court 球場/法院⚖️
 passive 被動的;消極的
 overcome 克服;攻克
 resolut... 堅決 決心
-    resolute   (adj)
-    resolution (n)
+    resolute    (adj)
+    resolution  (n)
 retire 退休
 conquer 克服
     (devide and conquer 分治法)
 proper 適合的 恰當的
 groceries (吃的)雜貨
-insist 堅持 
+insist 堅持
+horr... 可怕的 恐怖的 恐懼 驚嚇
+    horror      (n)
+    horrible    (adj)
+    horrify     (v)

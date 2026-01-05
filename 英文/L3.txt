@@ -9,7 +9,9 @@ agriculture (farming)
 involve 包含 牽涉
 innovate 改革 創新
 remote 遙遠的 久遠的 疏遠的
-permit 允許
+permi... 許可 准許
+    permit      (v)
+    permission  (n)
 region 區域 地區
 literal 字面的
 firm 堅定的;堅固的;結實的/事務所;商行
@@ -24,7 +26,9 @@ mild 輕微的 溫和的
 cruel 殘酷的
 diligent 勤勉的 刻苦的
 fulfill 實現
-innocent 清白的 天真的
+innocen... 純真的 清白的 無辜
+    innocent    (adj)
+    innocence   (n)
 resist 抵抗 抗拒 阻擋
 stimulate 促進 刺激 激勵
 transmit 發送 傳送
@@ -86,3 +90,7 @@ presence 存在 在場
 casual 不放心上的 隨意的 (衣服)休閒的
 soak 浸泡 浸濕
 dizzy 頭暈目眩的
+contrast 對照，對比
+associat... 聯想 有關聯的
+    association (n)
+    associate   (v)
