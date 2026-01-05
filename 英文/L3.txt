@@ -47,7 +47,7 @@ brilliant 傑出的 出色的
 restrict 限制 妨礙
 resemble 像 與…相似
 moral 道德的 寓意
-faith 信任 信仰
+faith 信心 信任 信仰
     (faithful 忠實的 忠誠的)
 loyal 忠實的 忠誠的(較正式)
 conservative 保守的
@@ -85,3 +85,4 @@ aspect 方面;層面
 presence 存在 在場
 casual 不放心上的 隨意的 (衣服)休閒的
 soak 浸泡 浸濕
+dizzy 頭暈目眩的
