@@ -94,3 +94,4 @@ contrast 對照，對比
 associat... 聯想 有關聯的
     association (n)
     associate   (v)
+conflict 分歧 衝突 戰爭
