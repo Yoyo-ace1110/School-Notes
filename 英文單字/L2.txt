@@ -3,7 +3,7 @@ due 預期的
     (due to 由於 因爲)
 tragic 悲慘的
 brief 短暫的;簡短的
-form 形成;組成/形式/表單
+form 形式/形成;組成/表單
 hire 租 僱用
 desire 慾望
 attend 出席
@@ -19,7 +19,7 @@ opportune 合適的
 conduct 實施 進行
     (conductive 導電或導熱的)
 condition 狀況
-energetic 充滿活力的⚡
+# energetic 充滿活力的⚡
 advance 進步
 advantage 優勢
 anxiety 焦慮
@@ -44,7 +44,7 @@ despite 儘管 無論
 [board 板子, aboard 登上(交通工具), broad 寬廣的, abroad 國外]
 engage 吸引住 使感興趣
 steady 穩定的 持續的
-mobile 活動的 行動的 📱📞
+# mobile 活動的 行動的 📱📞
 throughout 自始至終
 # access 存取 途徑
 significant 顯著的 
@@ -59,7 +59,7 @@ territory 領土 領地 🚩
 recognize 認出 認可 認定 識別
 thread 線 線狀物/執行緒
 vessel 船艦/血管
-pollute 污染
+# pollute 污染
 effort 精力 努力
 substance 物質 ⌬⚛
 odd 古怪的
@@ -81,14 +81,14 @@ fund 資金💰 基金
 refund 退還($)
 transport 運輸
 accomplish 達成(成就)
-determine 決定 取決於... 影響
+# determine 決定 取決於...
 fluent 流利的(說語言)
-reflect 映(反射)出...(影像)
+# reflect 映(反射)出...(影像)
 inspire 激勵 激發
 despite 儘管 無論
 promote 促進 推廣/晉升
 contact 聯繫 聯絡 接觸 有"關係"
-decade 十年 一代
+# decade 十年 一代
 career 生涯 職業 事業
 medical 醫學的 醫療的 💊
 supply 提供 供給
@@ -107,7 +107,7 @@ resolut... 堅決 決心
     resolute    (adj)
     resolution  (n)
 retire 退休
-conquer 克服
+# conquer 克服
     (devide and conquer 分治法)
 proper 適合的 恰當的
 groceries (吃的)雜貨
@@ -116,3 +116,6 @@ horr... 可怕的 恐怖的 恐懼 驚嚇
     horror      (n)
     horrible    (adj)
     horrify     (v)
+powder 粉末
+attach 附上;繫;連接;固定
+assume 認為;假定
