@@ -1,4 +1,4 @@
-remain 保持 仍然是
+motivateremain 保持 仍然是
 pedestrian 行人
 launch 發射 發布
 term 學期 期限
@@ -101,3 +101,4 @@ suspend 停止;暫停
 ordinary 普通的 平凡的 一般的
     (in the ordinary way 一如往常的)
     (out of the ordinary unusual)
+motivate 使...有動機 激勵 激發
