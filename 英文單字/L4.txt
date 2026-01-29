@@ -68,3 +68,6 @@ inspect 檢查 審視
 suspense 擔心 焦慮(的等待)
 thrill 刺激 興奮 緊張感
 gamble 冒險 賭博
+stance 觀點 立場
+reproduce 複製 重現 繁殖
+monitor 監控 監測 監察員

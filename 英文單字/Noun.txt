@@ -35,3 +35,8 @@ warrior 戰士
 chimpanzee 黑猩猩
 orphan 孤兒
 moisture 水氣 濕氣
+miill 磨坊
+lobby 大廳
+lighthouse 燈塔
+gallery 陳列館 美術館 畫廊
+harbor 港口 港灣
