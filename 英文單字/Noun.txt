@@ -40,3 +40,5 @@ lobby 大廳
 lighthouse 燈塔
 gallery 陳列館 美術館 畫廊
 harbor 港口 港灣
+palace 宮殿;皇室;官邸
+pub 酒吧 酒館

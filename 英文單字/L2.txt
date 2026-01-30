@@ -123,3 +123,5 @@ license 許可 准許 執照 許可證
 technique 技術
 nowadays 如今 現在
 meanwile 與此同時 在此期間
+severe 非常嚴重的 極度的
+narrow 狹窄的
