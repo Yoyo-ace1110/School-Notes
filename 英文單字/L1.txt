@@ -5,7 +5,6 @@ lick 舔
 receive 收
 wire 金屬線/電線
 vaccine 疫苗
-clinic 診所, +al 臨床的
 rough 艱難的
 coast 海岸
 dive 潛水
@@ -20,10 +19,10 @@ genius 天才
 gifted 有天賦的
 expert 專家
 neat 整齊的 整潔的 
-    (neatly 恰好的)
+  (neatly 恰好的)
 scene 情景 場景 鏡頭/圈子
 rent 租借 租金
-awful 可怕的 
+awful 可怕的 糟糕的
 export import的相反
 steam 蒸汽 => 蒸(食物)/蒸汽火車
 stir 攪動 攪拌
@@ -31,3 +30,33 @@ deaf 耳聾的
 film 電影;影片/膠捲;底片
 native 天生的;本地的;當地人
 passage 通道/段落
+comfort 安慰
+appreciation 感激/鑑賞
+burst 爆裂
+bore 使厭煩
+fright (frighten的名詞)
+merry 歡樂的
+lousy (very bad)
+optimistic <--> pessimistic
+shame 可惜;遺憾/羞恥;丟臉
+tense 時態/緊張的;緊繃的
+terror --> terrible
+advertise 廣告
+fame (famous)的名詞
+fairy 小精靈
+draft 草稿
+craft 手工藝/飛行器
+contest 比賽 競賽
+guard 守衛
+  guarantee 保證/保固
+exponential 指數
+poster 海報
+pronounce 發音 讀音
+proof 證明 證據
+sightseeing 觀光 遊覽
+saving 積蓄
+pour 倒
+tail 故事
+grasp 抓緊;緊握/理解;領悟
+dip 涮 沾
+strengthen 加強 鞏固

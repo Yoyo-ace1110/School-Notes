@@ -1,109 +1,143 @@
-motivateremain 保持 仍然是
+remain 保持 仍然是
 pedestrian 行人
 launch 發射 發布
 term 學期 期限
-observe 觀察 監測
-imply 暗示
-submit 提交
 agriculture (farming)
-involve 包含 牽涉
-innovate 改革 創新
-remote 遙遠的 久遠的 疏遠的
-permi... 許可 准許
-    permit      (v)
-    permission  (n)
 region 區域 地區
-literal 字面的
 firm 堅定的;堅固的;結實的/事務所;商行
-invest 投資(廣義)
 maintain 維持 保持
 mature 成熟的
 authority 權威 當局
-restore 恢復 復原
-brutal 殘忍的 野蠻的
-efficient 高效率的
-mild 輕微的 溫和的
 cruel 殘酷的
 diligent 勤勉的 刻苦的
 fulfill 實現
-innocen... 純真的 清白的 無辜
-    innocent    (adj)
-    innocence   (n)
 resist 抵抗 抗拒 阻擋
 stimulate 促進 刺激 激勵
 transmit 發送 傳送
 disturb 打斷 干擾
 capable 有能力的 熟練的 
-    (capacity 容積;生產能力/職位)
-    (capacitive 電容式感應)
-    (Capacitor電容)
-formal 正式的
+  (capacity 容積;生產能力/職位)
+  (capacitive 電容式感應)
+  (Capacitor電容)
 [prohibit 禁止 exhibit 展示]
 impact 影響/...的巨大影響
+scholar 學者
 surgery 外科手術
-distract 使分心 干擾
-optimistic 樂觀的
-financial 財政的 金融的
-revolution 革命
-practical 實際的
-    (與impractical反義)
+  (與impractical反義)
 brilliant 傑出的 出色的
 restrict 限制 妨礙
 resemble 像 與…相似
 moral 道德的 寓意
 faith 信心 信任 信仰
-    (faithful 忠實的 忠誠的)
+  (faithful 忠實的 忠誠的)
 loyal 忠實的 忠誠的(較正式)
 conservative 保守的
 conventional 傳統的
 ambitious 有野心的(+)
 crisis 危機 困難時期
 primary 主要的/起源的;最初的
-    (小學:primary school)
-hesitate 猶豫
+  (小學:primary school)
 obedient 服從 聽話
 privilege 特權 榮幸
 bare 赤裸的
-    (barely 幾乎沒有 僅僅)
+  (barely 幾乎沒有 僅僅)
 numerous 很多的(many)
 establish 創立 建立
-infer 推論 推斷
 lane 巷子(胡同) (車/跑/航)道
 injustice 不公正 不正義
-illegal 非法
 mass 大量的 大規模
 obedien... 服從 聽話
-    obedience (n)
-    obedient  (adj)
+  obedience (n)
+  obedient  (adj)
 persua... 說服
-    persuade   (v)
-    persuasive (adj)
-    persuasion (n)
+  persuade   (v)
+  persuasive (adj)
+  persuasion (n)
 resolve 化解;解決/決定;決心
 stingy 吝嗇的
 stubborn 頑固的 難以改變的
 temper 脾氣🔥
-arrange 安排;準備/整理;排列
 aspect 方面;層面
 presence 存在 在場
 casual 不放心上的 隨意的 (衣服)休閒的
 soak 浸泡 浸濕
 dizzy 頭暈目眩的
-contrast 對照，對比
+contrast 對照;對比
 associat... 聯想 有關聯的
-    association (n)
-    associate   (v)
+  association (n)
+  associate   (v)
 conflict 分歧 衝突 戰爭
 demonstrate 顯示;證明;表明;展示
-complicated 複雜的;麻煩的
 suspend 停止;暫停
 ordinary 普通的 平凡的 一般的
-    (in the ordinary way 一如往常的)
-    (out of the ordinary unusual)
+  (in the ordinary way 一如往常的)
+  (out of the ordinary unusual)
 motivate 使...有動機 激勵 激發
-suspect 懷疑/猜想;嫌疑犯
-panic 恐慌 驚慌
 adjust 調整 適應
 occasion 特殊場合/(某事發生的)時候/機會;原因/造成;引起
   occasional 偶爾的
 postpone 延後 使延期
+narrow 狹窄的
+route 路途 路線
+rural 鄉村的 農村的
+urban 城市的
+extent 面積 範圍 數量 長度
+majority 大多數 大部分
+plenty 豐富 充足
+parcel 包裹/一塊土地
+amuse 逗樂 逗笑 使開心 
+swift 敏捷的
+boast 吹噓 誇耀
+ashamed 羞愧的 難為情的
+confess 坦承 供認 承認
+delight 欣喜;滿足;愜意;使快樂
+fond (happy and loving)
+furious 憤怒的 怒不可遏的
+harsh 嚴厲的;嚴酷的/刺眼的;刺耳的
+guilt 內疚;愧疚;自責/過失;犯罪;罪責
+insult 侮辱 辱駡
+jealous 嫉妒的 吃醋的
+leisure 空閒 閒暇 休閒
+mischief 淘氣 搗蛋
+neglect 疏忽照顧 忽視
+offen... 冒犯 得罪 惹怒
+  offend      (v)
+  offence    (n)
+  offensive (adj)
+pity 同情;憐憫/可惜;遺憾
+tension (關係)緊張/張力;拉力
+sympathy 同情 理解
+tolera... 寬容 忍受 容忍
+  tolerate    (v)
+  tolerant    (adj)
+  tolerance (n)
+  tolerable  (adj)
+accent 口音 腔調
+accuse 指責 指控 控告
+agency 機構
+agent 代理商 代理人
+bankrupt 破產的
+bond (親近的)關係/黏合;結合;鍵結/(bonds拘束物)
+campaign 活動 運動
+charity 慈善(事業/組織/機構)
+commerce 商業 貿易
+devote 把…奉獻給
+discipline 紀律 約束
+quote 引用 引文
+  quotation 語錄
+remark 說起 談論到
+ministry (政府)部門
+revise 修正 修改
+sketch 草圖 素描
+survey 調查
+trend 趨勢
+workout 鍛煉身體 訓練身體
+sufficient 足夠的 充足的
+interactive 交互的 互動的
+pace 步調 速度 節奏
+tender 溫柔的;關懷的/軟嫩的(食物)/未成熟的
+starve 挨餓 餓死
+burden 負荷 重負 負擔
+evolve逐步(發展/演變/形成)
+settle 確定;決定;了結/安排/安頓下來
+annually 一年一度地

@@ -10,22 +10,18 @@ rumour 傳聞
 contradict 矛盾
 grant 補助金 授予
 compose (文藝)創作
-consequence 後果
-candidate 候選人
 incident 事件(偏負面)
 barrier 障礙物
-trend 趨勢
 fascinated 極感興趣的 著迷的
 alpine 阿爾卑斯山 -> (高山)
 sacred 神聖的
-encounter 不期而遇
+encounter 不期而遇 邂逅
 embrace 欣然接受 樂意採納
 committee 委員會
 trivial 微不足道的
 minister 部長 大臣
 administration 管理 行政
 intense 強烈的
-delight 欣喜;滿足;愜意
 tailored 量身打造的
 occupy 佔用 佔據 (時空) 
 drain 使...排放
@@ -33,7 +29,8 @@ oral 口頭的 口服的 口腔的
 vehicle 車輛(總稱)
 conscious 有意識的
 elegant 優雅的(整體)
-graceful 優雅的(動作)
+grace 優美;優雅;體面/恩典
+  graceful 優雅的(動作)
 courtesy 禮貌;polite (behavior/action)
 faint 微弱的 暈眩
 intimate 親密的
@@ -43,7 +40,6 @@ sparkle 閃/(有)活力;生氣
 serene 平靜的 安詳的
 paradise 天堂 樂園
 winding (道路或河流等)蜿蜒的
-reform 改進 改造
 overlook 俯瞰 俯視
 victim 受害者 罹難者 犧牲者
 dump 垃圾場/拋棄;亂丟;扔下
@@ -51,7 +47,6 @@ dazzle 使...感到刺眼/使...讚嘆
 pursue 追捕/追查;追問/追求;從事
 marvellous (extremely good)
 apparent 明顯的
-discipline 紀律 約束
 mandatory 法定的 強制的
 retain 保持 保留 保有 保存
 prejudice 偏見 歧視
@@ -71,3 +66,46 @@ gamble 冒險 賭博
 stance 觀點 立場
 reproduce 複製 重現 繁殖
 monitor 監控 監測 監察員
+suburb 市郊 郊區
+bundle 束 捆
+heap 一堆(凌亂的)
+handful 少數;少量/一把
+portion 一份
+cherish 珍愛 愛護
+conscience 良心 良知
+curse 詛咒 咒駡
+dignity 莊重 尊嚴
+desperate 非常嚴重的 非常糟糕的
+dread 憂慮 害怕 擔心
+fantasy 幻想 想像
+grief 悲痛 悲傷 悲哀
+giggle 傻笑
+glory (對上帝的)讚頌;讚美;感激/光榮;榮耀
+grin 露齒笑
+hatred 憎恨
+instinct 本能 直覺
+exaggerate 誇大 誇張
+exhaust 使筋疲力竭/用完;花光;耗盡/廢氣
+intuition 直覺
+weep   哭泣 流(液體)
+reluctant 勉強的 不情願的
+sorrow 悲傷(的事)
+bless 祝福 恩賜 保佑
+carve 雕刻
+classification 將…歸類 把…分級
+consult 請教 查閱 徵求意見
+deposit  留下;存放/押金/存錢/沉積物
+feast 盛宴 宴會
+holy 神聖的 上帝的
+margin 差數;差額;利潤/頁緣留白處
+negotiate 磋商 談判
+overthrow 推翻 打敗
+plot 情節 陰謀 密謀
+rhyme 韻文 韻律
+sacrifice 犧牲/獻祭;祭品
+syllable 音節
+virtue 美德
+voyage 航海 航行
+imitate 模仿 仿效
+stroll 散步 蹓躂
+scarce 難得的 稀有的 罕見的

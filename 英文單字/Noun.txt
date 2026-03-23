@@ -42,3 +42,37 @@ gallery 陳列館 美術館 畫廊
 harbor 港口 港灣
 palace 宮殿;皇室;官邸
 pub 酒吧 酒館
+stadium 體育場
+tomb (重要人物的)墳墓
+tribe 部落
+tropic 回歸線
+  tropical 熱帶的
+dime 一角硬幣
+penny 便士(一分錢)
+pint 品脫(液量單位, 約473ml)
+herd 獸群 牧群
+mercy 慈悲 憐憫 寬容
+autobiography 自傳
+autograph 親筆簽名
+biography 傳記
+barn 穀倉
+canoe 獨木舟
+chorus 副歌 合唱曲
+congress 代表大會 國會
+dynasty 王朝 朝代
+devil 魔鬼 惡魔
+diploma 文憑
+flute 長笛
+honeymoon 蜜月
+jazz 爵士
+opera 歌劇
+panel 專家小組/嵌板;鑲板/儀表板;操縱台
+poll 民調
+portrait 肖像 畫像
+riddle 謎語 
+scholarship 獎學金
+sculpture 雕刻
+psychology 心理學
+fuel 燃料 
+roam 閒逛 漫步
+crop 作物 收成

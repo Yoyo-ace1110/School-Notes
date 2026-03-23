@@ -7,8 +7,6 @@
 # economic 經濟的
 # sustain 維持
 # critical 批判的/重要的 關鍵的
-# emergency 緊急情況 
-# consume 消耗 (...er 消費者)
 # concentrate 集中
 # conclusion 結論
 # impress 給…留下深刻印象
@@ -22,3 +20,38 @@
 # alert 警戒 警報
 # declare 宣告
 # aggressive 好鬥的 挑釁的 積極進取的
+# entire 完全的 全部的
+# energetic 充滿活力的⚡
+# attract 吸引
+#     (attraction 景點 有吸引力的事物)
+#     (attractive 吸引人的)
+# pollute 污染
+# resolut... 堅決 決心
+#     resolute    (adj)
+#     resolution  (n)
+# conquer 克服
+#     (devide and conquer 分治法)
+# due 預期的 
+#   (due to 由於 因爲)
+# emergency 緊急情況 
+# intention 意圖 打算 
+#   (intentionally 故意的)
+# opportune 合適的 
+#   (opportunity 機會)
+# [reverse 倒轉, reserve 把…留給 預約]
+# essential 必要的
+# decade 十年 一代
+# medical 醫學的 醫療的 💊
+# generous 慷慨的
+# boundary 邊界
+# routine 例行的
+# abandon 拋棄
+# steady 穩定的 持續的
+# overcome 克服;攻克
+# extend 延伸 延長
+# potential 潛在的
+# tragic 悲慘的
+# allowance 津貼 零用錢/限額
+# fund 資金💰 基金 
+# refund 退還($)
+# severe 非常嚴重的 極度的
