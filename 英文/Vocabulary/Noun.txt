@@ -81,3 +81,5 @@ gulf 海灣
 mist 霧 水氣
 stem (植物的)莖 主幹
 fertilizer 肥料
+bronze 青銅
+signature 簽名

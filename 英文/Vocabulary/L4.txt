@@ -111,3 +111,6 @@ prior 事先的 優先的
 bland 無滋味的 枯燥乏味的 無精打采的 無生氣的
 stamina 耐力
 stardom 名聲 聲譽
+resilience 恢復力 彈性
+affirm 聲稱 斷言 證實
+exceed 超過 超出

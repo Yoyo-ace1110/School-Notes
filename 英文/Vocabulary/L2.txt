@@ -212,3 +212,4 @@ privilege 特權 榮幸
 vehicle 車輛(總稱)
 trace 痕跡 追蹤
 exhaust 精疲力盡的
+resident 居民

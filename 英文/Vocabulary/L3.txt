@@ -6,8 +6,8 @@ bare 赤裸的
   (barely 幾乎沒有 僅僅)
 numerous 很多的(many)
 establish 創立 建立
+dominate 統治 控制 擁有主導權
 lane 巷子(胡同) (車/跑/航)道
-injustice 不公正 不正義
 mass 大量的 大規模
 obedien... 服從 聽話
   obedience (n)
@@ -39,7 +39,7 @@ occasion 特殊場合/(某事發生的)時候/機會;原因/造成;引起
   occasional 偶爾的
 postpone 延後 使延期
 narrow 狹窄的
-route 路途 路線
+route 路途;路線/途徑;管道
 rural 鄉村的 農村的
 urban 城市的
 extent 面積 範圍 數量 長度
@@ -104,4 +104,10 @@ settle 確定;決定;了結/安排/安頓下來
 annually 一年一度地
 organic 有機的
 harvest 收成(的時間)
+accumulate 累積 積聚
+disrupt 擾亂 打斷
+optimize 最佳化
+spark 火花
 rapid 快的
+vanish (突然的)消失
+reputation 名譽 聲望 名望
