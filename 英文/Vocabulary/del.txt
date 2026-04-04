@@ -1,57 +1,78 @@
-# cause 造成
-# heal 恢復/癒合
-# force 力 影響 強迫
-# feature 特徵 特色
-# responsibility 責任
-# certain 肯定的 某個
-# economic 經濟的
-# sustain 維持
-# critical 批判的/重要的 關鍵的
-# concentrate 集中
-# conclusion 結論
-# impress 給…留下深刻印象
-# various 各種各樣的 
+cause 造成
+heal 恢復/癒合
+force 力 影響 強迫
+feature 特徵 特色
+responsibility 責任
+certain 肯定的 某個
+economic 經濟的
+sustain 維持
+critical 批判的/重要的 關鍵的
+concentrate 集中
+conclusion 結論
+impress 給…留下深刻印象
+various 各種各樣的 
     (vary)
-# require 要求
-# develop 發展
-# opponent 對手
-# appearance 外貌
-# aware 意識到的
-# alert 警戒 警報
-# declare 宣告
-# aggressive 好鬥的 挑釁的 積極進取的
-# entire 完全的 全部的
-# energetic 充滿活力的⚡
-# attract 吸引
-#     (attraction 景點 有吸引力的事物)
-#     (attractive 吸引人的)
-# pollute 污染
-# resolut... 堅決 決心
-#     resolute    (adj)
-#     resolution  (n)
-# conquer 克服
-#     (devide and conquer 分治法)
-# due 預期的 
-#   (due to 由於 因爲)
-# emergency 緊急情況 
-# intention 意圖 打算 
-#   (intentionally 故意的)
-# opportune 合適的 
-#   (opportunity 機會)
-# [reverse 倒轉, reserve 把…留給 預約]
-# essential 必要的
-# decade 十年 一代
-# medical 醫學的 醫療的 💊
-# generous 慷慨的
-# boundary 邊界
-# routine 例行的
-# abandon 拋棄
-# steady 穩定的 持續的
-# overcome 克服;攻克
-# extend 延伸 延長
-# potential 潛在的
-# tragic 悲慘的
-# allowance 津貼 零用錢/限額
-# fund 資金💰 基金 
-# refund 退還($)
-# severe 非常嚴重的 極度的
+require 要求
+develop 發展
+opponent 對手
+appearance 外貌
+aware 意識到的
+alert 警戒 警報
+declare 宣告
+aggressive 好鬥的 挑釁的 積極進取的
+entire 完全的 全部的
+energetic 充滿活力的⚡
+attract 吸引
+    (attraction 景點 有吸引力的事物)
+    (attractive 吸引人的)
+pollute 污染
+resolut... 堅決 決心
+    resolute    (adj)
+    resolution  (n)
+conquer 克服
+    (devide and conquer 分治法)
+due 預期的 
+  (due to 由於 因爲)
+emergency 緊急情況 
+intention 意圖 打算 
+  (intentionally 故意的)
+opportune 合適的 
+  (opportunity 機會)
+[reverse 倒轉, reserve 把…留給 預約]
+essential 必要的
+decade 十年 一代
+medical 醫學的 醫療的 💊
+generous 慷慨的
+boundary 邊界
+routine 例行的
+abandon 拋棄
+steady 穩定的 持續的
+overcome 克服;攻克
+extend 延伸 延長
+potential 潛在的
+tragic 悲慘的
+allowance 津貼 零用錢/限額
+fund 資金💰 基金 
+refund 退還($)
+severe 非常嚴重的 極度的
+expert 專家
+pure 純的
+lack 缺少
+receive 收
+stage 階段
+slip 滑倒 滑
+license 許可 准許 執照 許可證
+innocen... 純真的 清白的 無辜
+  innocent  (adj)
+  innocence   (n)
+formula 公式;方程式/配方
+consequence 後果 結果
+struggle 奮鬥 努力 掙扎
+reflect 映(反射)出...(影像)
+significant 顯著的 
+stubborn 頑固的 難以改變的
+resolve 化解;解決/決定;決心
+agriculture (farming)
+surgery 外科手術
+grace 優美;優雅;體面/恩典
+  graceful 優雅的(動作)

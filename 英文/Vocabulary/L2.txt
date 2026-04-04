@@ -27,7 +27,6 @@ engage 吸引住 使感興趣
 # mobile 活動的 行動的 📱📞
 throughout 自始至終
 # access 存取 途徑
-# significant 顯著的 
 category 類別 範疇
 halfway 一半的 不完全的 
 section 部分 片段
@@ -59,9 +58,8 @@ transport 運輸
 accomplish 達成(成就)
 # determine 決定 取決於...
 fluent 流利的(說語言)
-# reflect 映(反射)出...(影像)
 # inspire 激勵 激發
-despite 儘管 無論
+# despite 儘管 無論
 promote 促進 推廣/晉升
 contact 聯繫 聯絡 接觸 有"關係"
 career 生涯 職業 事業
@@ -72,7 +70,6 @@ career 生涯 職業 事業
 academic 學術的
 occur (意外事件的)發生
 religion 宗教信仰
-# struggle 奮鬥 努力 掙扎
 compete 競爭
 court 球場/法院⚖️
 passive 被動的;消極的
@@ -87,7 +84,6 @@ horr... 可怕的 恐怖的 恐懼 驚嚇
 # powder 粉末
 attach 附上;繫;連接;固定
 assume 認為;假定
-# license 許可 准許 執照 許可證
 technique 技術
 nowadays 如今 現在
 meanwile 與此同時 在此期間
@@ -105,7 +101,6 @@ remote 遙遠的 久遠的 疏遠的
 # efficient 高效率的
 mild 輕微的 溫和的
 content 滿意的 滿足的
-# consequence 後果 結果
 candidate 候選人
 panic 恐慌 驚慌
 rage 暴怒 生氣 肆虐
@@ -125,14 +120,13 @@ civil...
   civilization 文明 教化
 conference 會議
 compose 創作(樂曲, 詩歌, 書)
-election 選舉
+# election 選舉
 evidence 證據 證明
 entertain 娛樂 招待
 fiction 小說/謊言
 forecast 預測 預報
 fortune 大量財産/命運
 foundation 基礎/基金會
-formula 公式;方程式/配方
 funeral 葬禮 喪禮
 ceremony 典禮 儀式
 insurance 保險
@@ -158,9 +152,6 @@ trunk 樹幹 軀幹 ...的主幹
 # restore 恢復 復原
 imply 暗示
 brutal 殘忍的 野蠻的
-#innocen... 純真的 清白的 無辜
-#   innocent  (adj)
-#   innocence   (n)
 optimistic 樂觀的
 financial 財政的 金融的
 complicated 複雜的;麻煩的
@@ -175,10 +166,49 @@ atmosphere 大氣層;空氣/氣氛;環境;情趣
 mood 心境 心情 情緒
 regard 看待;認為/尊敬;關心/注視;凝視
 raw 生的(食物) 未經處理的
-approach 靠近;接近;臨近/方法;態度/接洽;交涉;商談/通道;路線
+approach 靠近;接近;臨近/方法;態度/接洽;交涉;商談/途徑;通道;路線
 continent 大陸 洲
 clue 線索 跡象 提示
 exchange 交換 互換 交流
 collapse 倒下;倒塌/崩潰;瓦解
 attempt 嘗試 努力
 indicate 指出 表明 顯示 暗示
+leak 洩漏
+launch 發射 發布
+maintain 維持 保持
+remain 保持 仍然是
+mature 成熟的
+authority 權威 當局
+cruel 殘酷的
+diligent 勤勉的 刻苦的
+fulfill 實現
+resist 抵抗 抗拒 阻擋
+stimulate 促進 刺激 激勵
+transmit 發送 傳送
+disturb 打斷 干擾
+capable 有能力的 熟練的 
+  (capacity 容積;生產能力/職位)
+  (capacitive 電容式感應)
+  (Capacitor電容)
+[prohibit 禁止 exhibit 展示]
+impact 影響/...的巨大影響
+scholar 學者
+practical 實際的 有實際經驗的
+brilliant 傑出的 出色的
+restrict 限制 妨礙
+resemble 像 與…相似
+moral 道德的 寓意
+faith 信心 信任 信仰
+  (faithful 忠實的 忠誠的)
+loyal 忠實的 忠誠的(較正式)
+conservative 保守的
+conventional 傳統的
+ambitious 有野心的(+)
+crisis 危機 困難時期
+primary 主要的/起源的;最初的
+  (小學:primary school)
+obedient 服從 聽話
+privilege 特權 榮幸
+vehicle 車輛(總稱)
+trace 痕跡 追蹤
+exhaust 精疲力盡的

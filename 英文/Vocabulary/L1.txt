@@ -1,8 +1,6 @@
 crack 破裂
-stage 階段
 rush 衝
 lick 舔
-receive 收
 wire 金屬線/電線
 vaccine 疫苗
 rough 艱難的
@@ -11,13 +9,9 @@ dive 潛水
 habbit 習慣
 behavior 行為
 degree 某種程度的.../度(°)/學位 (字尾(num)-degree = (num)級)
-pure 純的
-lack 缺少
-slip 滑倒 滑
 laundry 洗衣店
 genius 天才
 gifted 有天賦的
-expert 專家
 neat 整齊的 整潔的 
   (neatly 恰好的)
 scene 情景 場景 鏡頭/圈子
@@ -60,3 +54,5 @@ tail 故事
 grasp 抓緊;緊握/理解;領悟
 dip 涮 沾
 strengthen 加強 鞏固
+afterwards 然後 以後 後來
+forgive 原諒

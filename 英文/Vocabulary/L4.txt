@@ -9,7 +9,7 @@ discard 拋棄
 rumour 傳聞
 contradict 矛盾
 grant 補助金 授予
-compose (文藝)創作
+compose (文藝)創作/組成;構成
 incident 事件(偏負面)
 barrier 障礙物
 fascinated 極感興趣的 著迷的
@@ -26,11 +26,8 @@ tailored 量身打造的
 occupy 佔用 佔據 (時空) 
 drain 使...排放
 oral 口頭的 口服的 口腔的
-vehicle 車輛(總稱)
 conscious 有意識的
 elegant 優雅的(整體)
-grace 優美;優雅;體面/恩典
-  graceful 優雅的(動作)
 courtesy 禮貌;polite (behavior/action)
 faint 微弱的 暈眩
 intimate 親密的
@@ -109,3 +106,8 @@ voyage 航海 航行
 imitate 模仿 仿效
 stroll 散步 蹓躂
 scarce 難得的 稀有的 罕見的
+humble 謙虛的/卑微的/普通的
+prior 事先的 優先的
+bland 無滋味的 枯燥乏味的 無精打采的 無生氣的
+stamina 耐力
+stardom 名聲 聲譽

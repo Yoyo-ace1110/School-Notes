@@ -76,3 +76,8 @@ psychology 心理學
 fuel 燃料 
 roam 閒逛 漫步
 crop 作物 收成
+lighter 打火機
+gulf 海灣
+mist 霧 水氣
+stem (植物的)莖 主幹
+fertilizer 肥料
