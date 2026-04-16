@@ -83,3 +83,4 @@ stem (植物的)莖 主幹
 fertilizer 肥料
 bronze 青銅
 signature 簽名
+missile 飛彈 導彈

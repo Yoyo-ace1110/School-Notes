@@ -1,9 +1,6 @@
 term 學期 期限
 pedestrian 行人
 region 區域 地區
-firm 堅定的;堅固的;結實的/事務所;商行
-bare 赤裸的
-  (barely 幾乎沒有 僅僅)
 numerous 很多的(many)
 establish 創立 建立
 dominate 統治 控制 擁有主導權
@@ -111,3 +108,12 @@ spark 火花
 rapid 快的
 vanish (突然的)消失
 reputation 名譽 聲望 名望
+peculiar 奇怪的 古怪的
+urge 敦促 促進
+cooperate 合作 協力
+propose 建議 提議
+adequate 足夠的 合乎需要的
+apparent 顯而易見的 明顯的 
+cease "to stop something"
+circumstance 產生該 (條件/情況/形勢) 的事件
+concrete 混凝土/具體的
