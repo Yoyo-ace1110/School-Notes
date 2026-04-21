@@ -56,3 +56,4 @@ dip 涮 沾
 strengthen 加強 鞏固
 afterwards 然後 以後 後來
 forgive 原諒
+react 反應
