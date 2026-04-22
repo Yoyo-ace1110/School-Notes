@@ -217,3 +217,4 @@ firm 堅定的;堅固的;結實的
 # bare 赤裸的
 #   (barely 幾乎沒有 僅僅)
 armed 武裝的
+lunar 月亮的 => 陰曆也是lunar

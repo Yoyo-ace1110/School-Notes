@@ -113,3 +113,4 @@ stardom 名聲 聲譽
 resilience 恢復力 彈性
 affirm 聲稱 斷言 證實
 exceed 超過 超出
+fragile 脆弱的 易損壞的

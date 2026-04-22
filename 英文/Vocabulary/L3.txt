@@ -117,3 +117,5 @@ apparent 顯而易見的 明顯的
 cease "to stop something"
 circumstance 產生該 (條件/情況/形勢) 的事件
 concrete 混凝土/具體的
+fatigue 疲憊 勞累
+scent 香味
