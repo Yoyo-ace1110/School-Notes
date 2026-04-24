@@ -84,3 +84,4 @@ fertilizer 肥料
 bronze 青銅
 signature 簽名
 missile 飛彈 導彈
+肢體;樹枝
