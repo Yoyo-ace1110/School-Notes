@@ -10,7 +10,6 @@ rumour 傳聞
 contradict 矛盾
 grant 補助金 授予
 compose (文藝)創作/組成;構成
-incident 事件(偏負面)
 barrier 障礙物
 fascinated 極感興趣的 著迷的
 alpine 阿爾卑斯山 -> (高山)
@@ -21,7 +20,6 @@ committee 委員會
 trivial 微不足道的
 minister 部長 大臣
 administration 管理 行政
-intense 強烈的
 tailored 量身打造的
 occupy 佔用 佔據 (時空) 
 drain 使...排放
@@ -111,4 +109,4 @@ stardom 名聲 聲譽
 resilience 恢復力 彈性
 affirm 聲稱 斷言 證實
 exceed 超過 超出
-fragile 脆弱的 易損壞的
+idle 空閒的 閒置的 無工作的
