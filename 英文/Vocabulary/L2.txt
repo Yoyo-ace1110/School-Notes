@@ -1,7 +1,7 @@
 brief 短暫的;簡短的
 form 形式/形成;組成/表單
-  formation 形成 組成 養成
-  reform 改進 改造 改革
+    formation 形成 組成 養成
+    reform 改進 改造 改革
 hire 租 僱用
 desire 慾望
 attend 出席
@@ -10,13 +10,11 @@ appeal 求助;懇求;呼籲/有吸引力的
 charm 吸引住... 使...著迷
 # process 過程
 conduct 實施 進行
-  (conductive 導電或導熱的)
+    (conductive 導電或導熱的)
 condition 狀況
 # advance 進步
 advantage 優勢
 reveal 揭露
-extensive 廣泛的 
-  (extension 擴充功能)
 honor 榮譽 
 medal 獎牌🏅 勳章
 invent 發明 創造
@@ -27,9 +25,7 @@ throughout 自始至終
 category 類別 範疇
 halfway 一半的 不完全的 
 section 部分 片段
-afford 負擔的起 
-  (can+afford 買得起)
-  (affordable 買得起的)
+afford 負擔的起
 territory 領土 領地 🚩
 # recognize 認出 認可 認定 識別
 thread 線 線狀物/執行緒
@@ -42,7 +38,7 @@ awkward 尷尬的、笨拙的
 concern 使...worry;擔憂/與…相關;關於...的
 measure 方法/測量📏;衡量
 convention 習俗 
-  (conventional 傳統的 普通的)
+    (conventional 傳統的 普通的)
 invest 投資(廣義)
 investigate 調查 審查 (真相)
 automobile 汽車
@@ -71,9 +67,9 @@ retire 退休
 groceries (吃的)雜貨
 # insist 堅持
 horr... 可怕的 恐怖的 恐懼 驚嚇
-  horror  (n)
-  horrible  (adj)
-  horrify   (v)
+    horror    (n)
+    horrible  (adj)
+    horrify   (v)
 # powder 粉末
 attach 附上;繫;連接;固定
 assume 認為;假定
@@ -97,17 +93,17 @@ rage 暴怒 生氣 肆虐
 regret 懊悔 遺憾
 relief 減輕(負擔) 解脫 放鬆
 suspec... 懷疑;猜測/涉嫌;嫌犯
-  suspect        (v) 懷疑;猜測
-  suspect        (n) 嫌犯
-  suspecion   (n) 懷疑/涉嫌
-  suspecious (adj) 懷疑的
+    suspect     (v) 懷疑;猜測
+    suspect     (n) 嫌犯
+    suspecion   (n) 懷疑/涉嫌
+    suspecious  (adj) 懷疑的
 broadcast 廣播
 catalog(ue) 目錄
 civil...
-  civil             公民的/文明的/民事的
-  civilian        平民/百姓的
-  civilize        使文明 使禮貌
-  civilization 文明 教化
+    civil           公民的/文明的/民事的
+    civilian        平民/百姓的
+    civilize        使文明 使禮貌
+    civilization    文明 教化
 conference 會議
 compose 創作(樂曲, 詩歌, 書)
 # election 選舉
@@ -120,23 +116,20 @@ foundation 基礎/基金會
 funeral 葬禮 喪禮
 ceremony 典禮 儀式
 insurance 保險
-interpret 解釋;詮釋/口譯
-  interpreter 直譯器
 liter...
-  liter 公升
-  literal 逐字的 字面的
-  literally 名副其實地;確實的/就
-  literary 文學的
-  literature 文學(作品)
+    liter 公升
+    literal 逐字的 字面的
+    literally 名副其實地;確實的/就
+    literary 文學的
+    literature 文學(作品)
 loan 貸款
 miracle 奇跡
 philosophy 哲學
 racial 種族的
-  racist 種族主義者
 recreation 娛樂 消遣
 refer...
-  refer to 提及...
-  reference 參考 (const T& val)
+    refer to 提及...
+    reference 參考 (const T& val)
 slogan 口號 標語
 trunk 樹幹 軀幹 ...的主幹
 # restore 恢復 復原
@@ -169,9 +162,9 @@ resist 抵抗 抗拒 阻擋
 stimulate 促進 刺激 激勵
 transmit 發送 傳送
 capable 有能力的 熟練的 
-  (capacity 容積;生產能力/職位)
-  (capacitive 電容式感應)
-  (Capacitor電容)
+    (capacity 容積;生產能力/職位)
+    (capacitive 電容式感應)
+    (Capacitor電容)
 [prohibit 禁止 exhibit 展示]
 impact 影響/...的巨大影響
 scholar 學者
@@ -181,7 +174,6 @@ restrict 限制 妨礙
 resemble 像 與…相似
 moral 道德的 寓意
 faith 信心 信任 信仰
-  (faithful 忠實的 忠誠的)
 loyal 忠實的 忠誠的(較正式)
 conservative 保守的
 conventional 傳統的
@@ -210,4 +202,11 @@ indenti...
     identify        辨認;識別/驗證;確定     (v)
     identification  身分證明/識別;辨認      (n)
     identifier      識別符;識別碼           (n)
-
+marvellous "extremely good"
+liberty 自由
+manual "done with hands" "physical work"
+numerous "many"
+objective 目標;目的/客觀的;如實的
+outstanding 
+    "much better than usual"
+    "not yet paid/solved/done"

@@ -1,8 +1,5 @@
-hasten 加快 趕緊
 redundant 不需要的
 astonish 驚人
-sibling 兄弟
-flood 洪水
 neglected 被忽視的
 demand 強烈要求
 discard 拋棄 
@@ -26,7 +23,8 @@ drain 使...排放
 oral 口頭的 口服的 口腔的
 conscious 有意識的
 elegant 優雅的(整體)
-courtesy 禮貌;polite (behavior/action)
+courtesy
+    "polite behavior/action"
 faint 微弱的 暈眩
 intimate 親密的
 crave 渴望
@@ -40,7 +38,6 @@ victim 受害者 罹難者 犧牲者
 dump 垃圾場/拋棄;亂丟;扔下
 dazzle 使...感到刺眼/使...讚嘆
 pursue 追捕/追查;追問/追求;從事
-marvellous (extremely good)
 mandatory 法定的 強制的
 retain 保持 保留 保有 保存
 prejudice 偏見 歧視
@@ -79,7 +76,10 @@ grin 露齒笑
 hatred 憎恨
 instinct 本能 直覺
 exaggerate 誇大 誇張
-exhaust 使筋疲力竭/用完;花光;耗盡/廢氣
+exhaust 
+    "make ... extremely tired"
+    "use something completely"
+    引擎排出的廢氣
 intuition 直覺
 weep   哭泣 流(液體)
 reluctant 勉強的 不情願的
@@ -87,7 +87,7 @@ sorrow 悲傷(的事)
 bless 祝福 恩賜 保佑
 carve 雕刻
 classification 將…歸類 把…分級
-consult 請教 查閱 徵求意見
+consult [get information/advice from ... with special knowledge on a subject]
 deposit  留下;存放/押金/存錢/沉積物
 feast 盛宴 宴會
 holy 神聖的 上帝的
@@ -103,10 +103,12 @@ stroll 散步 蹓躂
 scarce 難得的 稀有的 罕見的
 humble 謙虛的/卑微的/普通的
 prior 事先的 優先的
-bland 無滋味的 枯燥乏味的 無精打采的 無生氣的
+bland 平淡的 無趣的
 stamina 耐力
 stardom 名聲 聲譽
 resilience 恢復力 彈性
 affirm 聲稱 斷言 證實
 exceed 超過 超出
 idle 空閒的 閒置的 無工作的
+mighty "very/large/powerful/important"
+concise "short and clear to express ..."

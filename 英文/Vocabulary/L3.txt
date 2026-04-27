@@ -7,12 +7,12 @@ dominate 統治 控制 擁有主導權
 lane 巷子(胡同) (車/跑/航)道
 mass 大量的 大規模
 obedien... 服從 聽話
-  obedience (n)
-  obedient  (adj)
+    obedience (n)
+    obedient  (adj)
 persua... 說服
-  persuade   (v)
-  persuasive (adj)
-  persuasion (n)
+    persuade   (v)
+    persuasive (adj)
+    persuasion (n)
 stingy 吝嗇的
 temper 脾氣🔥
 aspect 方面;層面
@@ -22,8 +22,8 @@ soak 浸泡 浸濕
 dizzy 頭暈目眩的
 contrast 對照;對比
 associat... 聯想 有關聯的
-  association (n)
-  associate   (v)
+    association (n)
+    associate   (v)
 conflict 分歧 衝突 戰爭
 demonstrate 顯示;證明;表明;展示
 suspend 停止;暫停
@@ -32,8 +32,10 @@ ordinary 普通的 平凡的 一般的
   (out of the ordinary unusual)
 motivate 使...有動機 激勵 激發
 adjust 調整 適應
-occasion 特殊場合/(某事發生的)時候/機會;原因/造成;引起
-  occasional 偶爾的
+occasion 
+    "a particular time when ... happens"
+    "a special or formal event"
+    時機;機會;原因;理由
 postpone 延後 使延期
 narrow 狹窄的
 route 路途;路線/途徑;管道
@@ -59,17 +61,17 @@ leisure 空閒 閒暇 休閒
 mischief 淘氣 搗蛋
 neglect 疏忽照顧 忽視
 offen... 冒犯 得罪 惹怒
-  offend      (v)
-  offence    (n)
-  offensive (adj)
+    offend      (v)
+    offence    (n)
+    offensive (adj)
 pity 同情;憐憫/可惜;遺憾
 tension (關係)緊張/張力;拉力
 sympathy 同情 理解
 tolera... 寬容 忍受 容忍
-  tolerate    (v)
-  tolerant    (adj)
-  tolerance (n)
-  tolerable  (adj)
+    tolerate    (v)
+    tolerant    (adj)
+    tolerance (n)
+    tolerable  (adj)
 accent 口音 腔調
 accuse 指責 指控 控告
 agency 機構
@@ -82,7 +84,7 @@ commerce 商業 貿易
 devote 把…奉獻給
 discipline 紀律 約束
 quote 引用 引文
-  quotation 語錄
+    quotation 語錄
 remark 說起 談論到
 ministry (政府)部門
 revise 修正 修改
@@ -135,3 +137,8 @@ intens...
     intensification 前者的名詞  (n)
 intermediate 中級的 中間的
 isolate 孤立 隔離 分離
+omit 忽略 遺漏
+magnificent 極好的 壯麗的
+misery "great unhappiness"
+moderate 中等的 適度的
+permanent "lasting for a long time or for ever"
