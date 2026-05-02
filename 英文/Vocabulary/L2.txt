@@ -196,13 +196,13 @@ hast...
     hasten  加速;趕快       (v)
     hasty   匆忙的;草率的   (adj)
 grave 墳墓
-indenti...
+identi...
     identity        身份;本身              (n)
     identical       完全相同的;極為相似的   (adj)
     identify        辨認;識別/驗證;確定     (v)
     identification  身分證明/識別;辨認      (n)
     identifier      識別符;識別碼           (n)
-marvellous "extremely good"
+marvelous "extremely good"
 liberty 自由
 manual "done with hands" "physical work"
 numerous "many"
