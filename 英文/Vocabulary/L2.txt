@@ -204,9 +204,16 @@ identi...
     identifier      識別符;識別碼           (n)
 marvelous "extremely good"
 liberty 自由
-manual "done with hands" "physical work"
+manual 
+    "done with hands"
+    "physical work"
 numerous "many"
 objective 目標;目的/客觀的;如實的
 outstanding 
     "much better than usual"
     "not yet paid/solved/done"
+precious 珍貴的;寶貴的
+prime 
+    "main or most important"
+    上等的;一流的
+    全盛時期

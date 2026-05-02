@@ -37,3 +37,4 @@ tail 故事
 dip 涮 沾
 forgive 原諒
 react 反應
+port 港口/端口

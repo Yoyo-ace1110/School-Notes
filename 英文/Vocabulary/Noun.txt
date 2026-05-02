@@ -88,3 +88,5 @@ limb 肢體;樹枝
 sibling 兄弟
 flood 洪水
 needy 窮人
+legislator 立法者
+ripe 成熟的(果實)

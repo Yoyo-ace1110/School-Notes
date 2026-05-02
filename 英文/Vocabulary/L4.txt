@@ -100,7 +100,6 @@ syllable 音節
 virtue 美德
 voyage 航海 航行
 stroll 散步 蹓躂
-scarce 難得的 稀有的 罕見的
 humble 謙虛的/卑微的/普通的
 prior 事先的 優先的
 bland 平淡的 無趣的

@@ -142,3 +142,10 @@ magnificent 極好的 壯麗的
 misery "great unhappiness"
 moderate 中等的 適度的
 permanent "lasting for a long time or for ever"
+portable 便攜的;手提的
+prompt
+    "to make something happen"
+    迅速的;敏捷的;及時的
+    提示符;提示詞
+relevant 相關的;切題的
+scarce 難得的 稀有的 罕見的
