@@ -38,3 +38,4 @@ dip 涮 沾
 forgive 原諒
 react 反應
 port 港口/端口
+ongoing 持續進行的
