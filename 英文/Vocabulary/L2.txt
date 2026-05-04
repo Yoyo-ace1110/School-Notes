@@ -217,3 +217,5 @@ prime
     "main or most important"
     上等的;一流的
     全盛時期
+cure 治癒 治療
+interact 交流;互動;相互作用

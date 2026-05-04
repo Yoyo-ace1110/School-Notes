@@ -39,3 +39,4 @@ forgive 原諒
 react 反應
 port 港口/端口
 ongoing 持續進行的
+volume 體積(V);容量;音量
