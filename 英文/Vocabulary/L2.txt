@@ -219,3 +219,5 @@ prime
     全盛時期
 cure 治癒 治療
 interact 交流;互動;相互作用
+represent 象徵;代表/意味著
+gear 排檔;傳動裝置/裝備;用具/clothes

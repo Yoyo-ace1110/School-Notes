@@ -46,6 +46,7 @@ def shuffle_file(input_path: str, output_path: str) -> None:
 
 if __name__ == "__main__":
     parent_folder = r"G10-5_Exam\英文"
-    target_file =   parent_folder + r"\單字書11-3.md"
-    save_file =     parent_folder + r"\單字書11-3.md"
+    target_file =   parent_folder + r"\雜誌.md"
+    # save_file =     parent_folder + r"\單字書11-3.md"
+    save_file = target_file
     shuffle_file(target_file, save_file)
