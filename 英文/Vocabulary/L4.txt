@@ -111,3 +111,5 @@ exceed 超過 超出
 idle 空閒的 閒置的 無工作的
 mighty "very/large/powerful/important"
 concise "short and clear to express ..."
+commute 通勤
+cable 電纜

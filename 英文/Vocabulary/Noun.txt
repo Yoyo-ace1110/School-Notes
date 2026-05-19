@@ -45,8 +45,6 @@ pub 酒吧 酒館
 stadium 體育場
 tomb (重要人物的)墳墓
 tribe 部落
-tropic 回歸線
-  tropical 熱帶的
 dime 一角硬幣
 penny 便士(一分錢)
 pint 品脫(液量單位, 約473ml)
@@ -90,3 +88,6 @@ flood 洪水
 needy 窮人
 legislator 立法者
 ripe 成熟的(果實)
+flame 火焰
+cigarette 香菸;紙煙
+pest 害蟲

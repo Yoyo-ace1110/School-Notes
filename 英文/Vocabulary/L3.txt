@@ -107,7 +107,7 @@ accumulate 累積 積聚
 disrupt 擾亂 打斷
 optimize 最佳化
 spark 火花
-rapid 快的
+rapid 迅速的
 vanish (突然的)消失
 reputation 名譽 聲望 名望
 peculiar 奇怪的 古怪的
@@ -149,3 +149,5 @@ prompt
     提示符;提示詞
 relevant 相關的;切題的
 scarce 難得的 稀有的 罕見的
+absorb 吸收
+crucial 關鍵的
