@@ -1,52 +1,24 @@
-term 學期 期限
-pedestrian 行人
-region 區域 地區
-numerous 很多的(many)
-establish 創立 建立
-dominate 統治 控制 擁有主導權
-lane 巷子(胡同) (車/跑/航)道
-mass 大量的 大規模
 obedien... 服從 聽話
     obedience (n)
     obedient  (adj)
-persua... 說服
-    persuade   (v)
-    persuasive (adj)
-    persuasion (n)
-stingy 吝嗇的
-temper 脾氣🔥
 aspect 方面;層面
 presence 存在 在場
 casual 不放心上的 隨意的 (衣服)休閒的
-soak 浸泡 浸濕
+# soak 浸泡 浸濕
 dizzy 頭暈目眩的
-contrast 對照;對比
-associat... 聯想 有關聯的
-    association (n)
-    associate   (v)
-conflict 分歧 衝突 戰爭
-demonstrate 顯示;證明;表明;展示
 suspend 停止;暫停
-ordinary 普通的 平凡的 一般的
-    (in the ordinary way 一如往常的)
-    (out of the ordinary unusual)
-motivate 使...有動機 激勵 激發
-adjust 調整 適應
 occasion 
-    "a particular time when ... happens"
-    "a special or formal event"
+    [a particular time when ... happens]
+    [a special or formal event]
     時機;機會;原因;理由
 postpone 延後 使延期
-narrow 狹窄的
-route 路途;路線/途徑;管道
+# narrow 狹窄的
 rural 鄉村的 農村的
 urban 城市的
 extent 面積 範圍 數量 長度
-majority 大多數 大部分
 plenty 豐富 充足
 parcel 包裹/一塊土地
 amuse 逗樂 逗笑 使開心 
-swift 敏捷的
 boast 吹噓 誇耀
 ashamed 羞愧的 難為情的
 confess 坦承 供認 承認
@@ -75,8 +47,6 @@ tolera... 寬容 忍受 容忍
 accent 口音 腔調
 accuse 指責 指控 控告
 agency 機構
-agent 代理商 代理人
-bankrupt 破產的
 bond (親近的)關係/黏合;結合;鍵結/(bonds拘束物)
 campaign 活動 運動
 charity 慈善(事業/組織/機構)
@@ -93,41 +63,34 @@ survey 調查
 trend 趨勢
 workout 鍛煉身體 訓練身體
 sufficient 足夠的 充足的
-interactive 交互的 互動的
 pace 步調 速度 節奏
 tender 溫柔的;關懷的/軟嫩的(食物)/未成熟的
 starve 挨餓 餓死
 burden 負荷 重負 負擔
-evolve逐步(發展/演變/形成)
 settle 確定;決定;了結/安排/安頓下來
 annually 一年一度地
 organic 有機的
 harvest 收成(的時間)
 accumulate 累積 積聚
-disrupt 擾亂 打斷
-optimize 最佳化
+# disrupt 擾亂 打斷
 spark 火花
 rapid 迅速的
 vanish (突然的)消失
 reputation 名譽 聲望 名望
 peculiar 奇怪的 古怪的
 urge 敦促 促進
-cooperate 合作 協力
 propose 建議 提議
 adequate 足夠的 合乎需要的
 apparent 顯而易見的 明顯的 
-cease "to stop something"
+cease [to stop something]
 circumstance 產生該 (條件/情況/形勢) 的事件
 concrete 混凝土/具體的
 fatigue 疲憊 勞累
 scent 香味
 sacrifice 犧牲/獻祭
 imitate 模仿 仿效
-loose 鬆動的;鬆散的/不嚴謹的;不精確的
 fierce 強烈的 狂暴的 激烈的
 halt 停止 停下
-incident (偶發的)事件
-inferior 較差的;不如的
 fragile 脆弱的 易損壞的
 intens...
     intense     強烈的;極度的   (adj)
@@ -136,18 +99,70 @@ intens...
     intensify   加強;增強;強化  (v)
     intensification 前者的名詞  (n)
 intermediate 中級的 中間的
-isolate 孤立 隔離 分離
 omit 忽略 遺漏
 magnificent 極好的 壯麗的
-misery "great unhappiness"
+misery [great unhappiness]
 moderate 中等的 適度的
-permanent "lasting for a long time or for ever"
+permanent [lasting for a long time or for ever]
 portable 便攜的;手提的
 prompt
-    "to make something happen"
+    [to make something happen]
     迅速的;敏捷的;及時的
     提示符;提示詞
 relevant 相關的;切題的
 scarce 難得的 稀有的 罕見的
 absorb 吸收
 crucial 關鍵的
+rhythm 規律 韻律 節奏
+terrific [very good]
+thorough 仔細的/徹底的
+vacant 未被佔用的
+gear 排檔;傳動裝置/裝備;用具/clothes
+cure 治癒 治療
+correspond 對應的;相當的/通信
+cope [to deal successfully with a difficult situation]
+council 委員會/地方議會
+humble 謙虛的/卑微的/普通的
+prior 事先的 優先的
+bland 平淡的 無趣的
+stamina 耐力
+resilience 恢復力 彈性
+commute 通勤
+cable 電纜
+vital 必要的 重要的
+ease 減輕 緩解
+instinct 本能 直覺
+exhaust 
+    "make ... extremely tired"
+    "use something completely"
+    引擎排出的廢氣
+intuition 直覺
+classification 將…歸類 把…分級
+affirm 聲稱 斷言 證實
+inspect 檢查 審視
+monitor 監控 監測 監察員
+bundle 束 捆
+occupy 佔用 佔據 (時空) 
+oral 口頭的 口服的 口腔的
+conscious 有意識的
+elegant 優雅的(整體)
+faint 微弱的 暈眩
+paradise 天堂 樂園
+overlook 俯瞰 俯視
+victim 受害者 罹難者 犧牲者
+dump 垃圾場/拋棄;亂丟;扔下
+prejudice 偏見 歧視
+genuine 真實的
+intimate 親密的
+pursue 追捕/追查;追問/追求;從事
+encounter 不期而遇 邂逅
+committee 委員會
+discard 拋棄
+redundant 不需要的
+divorce 離婚
+enthusiasm 興趣 熱忱
+shore 水岸
+darling 親愛的;受歡迎的
+dismiss (在腦中)不管;去除/免職
+marvelous "extremely good"
+stroll 散步 蹓躂

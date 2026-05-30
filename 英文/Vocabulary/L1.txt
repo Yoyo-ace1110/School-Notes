@@ -41,3 +41,7 @@ port 港口/端口
 ongoing 持續進行的
 volume 體積(V) 容量 音量
 fitness 健壯 健康
+knot (繩)結
+breeze 微風
+steep 陡峭的
+accompany [company的動詞(陪伴/伴隨)]

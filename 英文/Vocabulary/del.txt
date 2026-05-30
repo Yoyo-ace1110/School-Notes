@@ -118,3 +118,61 @@ interpret 解釋;詮釋/口譯
   interpreter 直譯器
 extensive 廣泛的 
   (extension 擴充功能)
+cruel 殘酷的
+fulfill 實現
+practical 實際的 有實際經驗的
+loyal 忠實的 忠誠的(較正式)
+ambitious 有野心的(+)
+numerous "many"
+contrast 對照;對比
+# complicated 複雜的;麻煩的
+# practical 實際的
+# hesitate 猶豫
+raw 生的(食物) 未經處理的
+launch 發射 發布
+remain 保持 仍然是
+# formal 正式的
+# rage 暴怒 生氣 肆虐
+# suspec... 懷疑;猜測/涉嫌;嫌犯
+#     suspect     (v) 懷疑;猜測
+#     suspect     (n) 嫌犯
+#     suspecion   (n) 懷疑/涉嫌
+#     suspecious  (adj) 懷疑的
+fiction 小說/謊言
+# observe 觀察 監測
+# determine 決定 取決於...
+# fluent 流利的(說語言)
+# despite 儘管 無論
+contact 聯繫 聯絡 接觸 有"關係"
+career 生涯 職業 事業
+compete 競爭
+passive 被動的;消極的
+# proper 適合的 恰當的
+halfway 一半的 不完全的 
+effort 精力 努力
+# depart 離開 出發 啟程
+bargain 討價還價/(買)便宜貨/交易 協議
+# measure 方法/測量📏;衡量
+# awkward 尷尬的、笨拙的
+# substance 物質 ⌬⚛
+# odd 古怪的 奇數的
+reveal 揭露
+hire 租 僱用
+# honor 榮譽 
+# medal 獎牌🏅 勳章
+# afford 負擔的起
+shrink 縮小
+associat... 聯想 有關聯的
+    association (n)
+    associate   (v)
+persua... 說服
+    persuade   (v)
+    persuasive (adj)
+    persuasion (n)
+# stingy 吝嗇的
+# majority 大多數 大部分
+# swift 敏捷的
+# region 區域 地區
+# loose 鬆動的;鬆散的/不嚴謹的;不精確的
+# optimize 最佳化
+heap 一堆(凌亂的)

@@ -2,7 +2,6 @@ brief 短暫的;簡短的
 form 形式/形成;組成/表單
     formation   形成 組成 養成
     reform      改進 改造 改革
-hire 租 僱用
 desire 慾望
 attend 出席
 appeal 求助;懇求;呼籲/有吸引力的
@@ -14,56 +13,36 @@ conduct 實施 進行
 condition 狀況
 # advance 進步
 # advantage 優勢
-reveal 揭露
-# honor 榮譽 
-# medal 獎牌🏅 勳章
 # invent 發明 創造
 [adapt 適應 改動...以適合, adopt 收養 採納]
 [board 板子, aboard 登上(交通工具), broad 寬廣的, abroad 國外]
 engage 吸引住 使感興趣
 throughout 自始至終
 # category 類別 範疇
-halfway 一半的 不完全的 
 section 部分 片段
-# afford 負擔的起
 # territory 領土 領地 🚩
 # recognize 認出 認可 認定 識別
 thread 線 線狀物/執行緒
 # vessel 船艦/血管
-effort 精力 努力
-# substance 物質 ⌬⚛
-# odd 古怪的 奇數的
-arrange 安排;準備/整理;排列
-# awkward 尷尬的、笨拙的
+arrange 安排;籌劃/整理;排列
 concern 使...worry;擔憂/與…相關;關於...的
-# measure 方法/測量📏;衡量
 convention 習俗 
     conventional 傳統的 普通的
 # invest 投資(廣義)
 investigate 調查 審查 (真相)
 automobile 汽車
-# depart 離開 出發 啟程
-bargain 討價還價/(買)便宜貨/交易 協議
 immigrate 移民(外來的, 動詞)
 [consume 消耗, costume (特別的)服裝]
 obvious 明顯的
 transport 運輸
 # accomplish 達成(成就)
-# determine 決定 取決於...
-# fluent 流利的(說語言)
 # inspire 激勵 激發
-# despite 儘管 無論
 promote 促進 推廣/晉升
-contact 聯繫 聯絡 接觸 有"關係"
-career 生涯 職業 事業
 academic 學術的
 occur (意外事件的)發生
 religion 宗教信仰
-compete 競爭
 court 球場/法院⚖️
-passive 被動的;消極的
 retire 退休
-# proper 適合的 恰當的
 groceries (吃的)雜貨
 # insist 堅持
 horr... 可怕的 恐怖的 恐懼 驚嚇
@@ -78,10 +57,8 @@ nowadays 如今 現在
 meanwile 與此同時 在此期間
 urgent 緊急的 急迫的
 approve 贊成 同意 准許 認可
-# formal 正式的
-# observe 觀察 監測
 submit 提交
-involve 包含 牽涉
+# involve 包含 牽涉
 # innovate 改革 創新
 remote 遙遠的 久遠的 疏遠的
 # efficient 高效率的
@@ -89,14 +66,8 @@ mild 輕微的 溫和的
 content 滿意的 滿足的
 candidate 候選人
 # panic 恐慌 驚慌
-# rage 暴怒 生氣 肆虐
 regret 懊悔 遺憾
 # relief 減輕(負擔) 解脫 放鬆
-# suspec... 懷疑;猜測/涉嫌;嫌犯
-#     suspect     (v) 懷疑;猜測
-#     suspect     (n) 嫌犯
-#     suspecion   (n) 懷疑/涉嫌
-#     suspecious  (adj) 懷疑的
 broadcast 廣播
 catalog(ue) 目錄
 civil...
@@ -111,9 +82,8 @@ eviden...
     evident     明顯的
     evidence    證據 證明
 entertain 娛樂 招待
-fiction 小說/謊言
 forecast 預測 預報
-fortune 大量財産/命運
+fortune 大量財產/命運
 foundation 基礎/基金會
 funeral 葬禮 喪禮
 ceremony 典禮 儀式
@@ -136,16 +106,12 @@ slogan 口號 標語
 trunk 樹幹 軀幹 ...的主幹
 # restore 恢復 復原
 brutal 殘忍的 野蠻的
-# complicated 複雜的;麻煩的
 # infer 推論 推斷
 # revolution 革命
-# practical 實際的
-# hesitate 猶豫
 emphasize 強調 重視
 # atmosphere 大氣層;空氣/氣氛;環境;情趣
 mood 心境 心情 情緒
 regard 看待;認為/尊敬;關心/注視;凝視
-raw 生的(食物) 未經處理的
 approach 靠近;接近;臨近/方法;態度/接洽;交涉;商談/途徑;通道;路線
 continent 大陸 洲
 clue 線索 跡象 提示
@@ -153,13 +119,9 @@ exchange 交換 互換 交流
 attempt 嘗試 努力
 indicate 指出 表明 顯示 暗示
 # leak 洩漏
-launch 發射 發布
-remain 保持 仍然是
 mature 成熟的
 authority 權威 當局
-cruel 殘酷的
 diligent 勤勉的 刻苦的
-fulfill 實現
 resist 抵抗 抗拒 阻擋
 stimulate 促進 刺激 激勵
 transmit 發送 傳送
@@ -170,22 +132,18 @@ capable 有能力的 熟練的
 [prohibit 禁止 exhibit 展示]
 impact 影響/...的巨大影響
 scholar 學者
-practical 實際的 有實際經驗的
 brilliant 傑出的 出色的
 restrict 限制 妨礙
 resemble 像 與…相似
 moral 道德的 寓意
 faith 信心 信任 信仰
-loyal 忠實的 忠誠的(較正式)
 conservative 保守的
 conventional 傳統的
-ambitious 有野心的(+)
 crisis 危機 困難時期
 primary 主要的/起源的;最初的
   (小學:primary school)
 obedient 服從 聽話
 privilege 特權 榮幸
-# vehicle 車輛(總稱)
 trace 痕跡 追蹤
 exhaust 精疲力盡的
 resident 居民
@@ -204,12 +162,10 @@ identi...
     identify        辨認;識別/驗證;確定     (v)
     identification  身分證明/識別;辨認      (n)
     identifier      識別符;識別碼           (n)
-marvelous "extremely good"
 liberty 自由
 manual 
     "done with hands"
     "physical work"
-numerous "many"
 objective 目標;目的/客觀的;如實的
 outstanding 
     "much better than usual"
@@ -219,10 +175,40 @@ prime
     "main or most important"
     上等的;一流的
     全盛時期
-cure 治癒 治療
 interact 交流;互動;相互作用
 represent 象徵;代表/意味著
-gear 排檔;傳動裝置/裝備;用具/clothes
 tropi...
     tropic      回歸線
     tropical    熱帶的
+stretch 伸出 拉長 伸展 延伸
+slight 少量的 微小的
+stiff 僵硬的/堅硬的/十分
+vast 廣闊的;巨大的
+convince 說服(某人)
+cooperate 合作 協力
+# temper 脾氣🔥
+term 學期 期限
+pedestrian 行人
+# establish 創立 建立
+# dominate 統治 控制 擁有主導權
+# lane 巷子(胡同) (車/跑/航)道
+# mass 大量的 大規模
+ordinary 普通的 平凡的 一般的
+    (in the ordinary way 一如往常的)
+    (out of the ordinary unusual)
+motivate 使...有動機 激勵 激發
+# adjust 調整 適應
+# conflict 分歧 衝突 戰爭
+# demonstrate 顯示;證明;表明;展示
+incident (偶發的)事件
+inferior 較差的;不如的
+inferior <=> superior
+evolve 逐步(發展/演變/形成)
+interactive 交互的 互動的
+# agent 代理商 代理人
+# bankrupt 破產的
+# route 路途;路線/途徑;管道
+shallow 淺的
+isolate 孤立 隔離 分離
+demand 強烈要求/需求
+shade 陰涼處/色調

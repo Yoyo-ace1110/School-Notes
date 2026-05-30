@@ -1,8 +1,5 @@
-redundant 不需要的
 astonish 驚人
 neglected 被忽視的
-demand 強烈要求
-discard 拋棄 
 rumour 傳聞
 contradict 矛盾
 grant 補助金 授予
@@ -11,55 +8,34 @@ barrier 障礙物
 fascinated 極感興趣的 著迷的
 alpine 阿爾卑斯山 -> (高山)
 sacred 神聖的
-encounter 不期而遇 邂逅
 embrace 欣然接受 樂意採納
-committee 委員會
 trivial 微不足道的
 minister 部長 大臣
 administration 管理 行政
 tailored 量身打造的
-occupy 佔用 佔據 (時空) 
 drain 使...排放
-oral 口頭的 口服的 口腔的
-conscious 有意識的
-elegant 優雅的(整體)
-courtesy
-    "polite behavior/action"
-faint 微弱的 暈眩
-intimate 親密的
+courtesy "polite behavior/action"
 crave 渴望
 unwind 鬆開 放鬆
 sparkle 閃/(有)活力;生氣
 serene 平靜的 安詳的
-paradise 天堂 樂園
 winding (道路或河流等)蜿蜒的
-overlook 俯瞰 俯視
-victim 受害者 罹難者 犧牲者
-dump 垃圾場/拋棄;亂丟;扔下
 dazzle 使...感到刺眼/使...讚嘆
-pursue 追捕/追查;追問/追求;從事
 mandatory 法定的 強制的
 retain 保持 保留 保有 保存
-prejudice 偏見 歧視
-genuine 真實的
-appoint 任命 委任
+appoint 委任(某人)/安排(時間)
 protest 抗議 反對
 sympathy 同情(心) 理解
 agenda 議程;(待辦)事項
 wicked 邪惡的😈 缺德的
-tender 溫柔的
 youthful 年輕的 有朝氣的
 tactic 策略 手法
-inspect 檢查 審視
 suspense 擔心 焦慮(的等待)
 thrill 刺激 興奮 緊張感
 gamble 冒險 賭博
 stance 觀點 立場
 reproduce 複製 重現 繁殖
-monitor 監控 監測 監察員
 suburb 市郊 郊區
-bundle 束 捆
-heap 一堆(凌亂的)
 handful 少數;少量/一把
 portion 一份
 cherish 珍愛 愛護
@@ -74,19 +50,12 @@ giggle 傻笑
 glory (對上帝的)讚頌;讚美;感激/光榮;榮耀
 grin 露齒笑
 hatred 憎恨
-instinct 本能 直覺
 exaggerate 誇大 誇張
-exhaust 
-    "make ... extremely tired"
-    "use something completely"
-    引擎排出的廢氣
-intuition 直覺
 weep   哭泣 流(液體)
 reluctant 勉強的 不情願的
 sorrow 悲傷(的事)
 bless 祝福 恩賜 保佑
 carve 雕刻
-classification 將…歸類 把…分級
 consult [get information/advice from ... with special knowledge on a subject]
 deposit  留下;存放/押金/存錢/沉積物
 feast 盛宴 宴會
@@ -99,17 +68,18 @@ rhyme 韻文 韻律
 syllable 音節
 virtue 美德
 voyage 航海 航行
-stroll 散步 蹓躂
-humble 謙虛的/卑微的/普通的
-prior 事先的 優先的
-bland 平淡的 無趣的
-stamina 耐力
 stardom 名聲 聲譽
-resilience 恢復力 彈性
-affirm 聲稱 斷言 證實
 exceed 超過 超出
 idle 空閒的 閒置的 無工作的
 mighty "very/large/powerful/important"
 concise "short and clear to express ..."
-commute 通勤
-cable 電纜
+splendid [excellent, or beautiful and impressive]
+stale 不新鮮的/過時的;老套的
+royal 皇家的 王室的
+tame (動物)溫順的;馴化的
+tremendous 巨大的/極好的
+underlying 深層的 潛在的
+vain 失敗的 無用的
+acquaintance 泛泛之交(不算太熟)/認識;結識;了解
+deed (很好或很差的)行為
+dispute 爭執;糾紛(正式)
