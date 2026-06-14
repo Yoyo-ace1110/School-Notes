@@ -211,4 +211,10 @@ interactive 交互的 互動的
 shallow 淺的
 isolate 孤立 隔離 分離
 demand 強烈要求/需求
-shade 陰涼處/色調
+stroll 散步 閒晃
+shade 陰影/色調
+greet 招呼 迎接 問候
+quarrel 爭吵 不和
+copper 銅/銅板/紅銅色的
+cotton 棉花 棉線 棉布
+faucet 水龍頭 (或是cap)
