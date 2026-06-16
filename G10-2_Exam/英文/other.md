@@ -1,0 +1,5 @@
+desire 渴望  
+tent 帳篷  
+motivate 動力  
+twist 扭曲  
+posture 姿勢  
