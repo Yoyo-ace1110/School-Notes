@@ -6,6 +6,7 @@
 - cooperate 合作、協作
 - arrange 安排、準備、整理
 - derive 起源於、衍生出
+- boycott 杯葛(音譯)
 - aspect 方面、層面
 - occupy 佔用、佔據
 - fierce 激烈的、兇猛的
@@ -29,6 +30,7 @@
 
 ## Grammer
 - ### L7
+  - 不完全及物動詞
   - S + keep/leave/find + O + Ving/pp/adj/prep ...
   - #### 受詞後面可以接
     - 1. **形容詞**: 表示狀態
@@ -39,3 +41,30 @@
       - Don't leave your car running while you fill it with gas.
     - 4. **過去分詞**: 表示被動或已完成的動作
       - I was surprised to find the door unlocked when I got home.
+  - Others choose to keep their minds sharp by reading books and newspapers.
+  - These are just a few examples of the celebrity speakers 
+    who have left millions feeling inspired through their TED Talks.
+- ### L8
+  - 分詞構句
+  - (Conj) Ving/pp ..., S + V ...
+  - #### 規則: 
+    - 去掉連接詞, 主詞只出現一次
+    - 去掉助動詞, 並將動詞改分詞
+    - 現在分詞(Ving) -> 主動
+    - 過去分詞(p.p.) -> 被動
+    - 若連接詞去除後語意不清則保留
+  - 原句:   Dave kept checking his smartphone in class, and he didn't look at his teacher even once.
+  - 修改後: Dave kept checking his smartphone in class, not looking at his teacher even once.
+  - 原句:   Because Jason felt nervous about the final exam, he couldn't fall asleep the night before.
+  - 修改後: Feeling nervous about the final exam, Jason couldn't fall asleep the night before.
+  - 原句:   When she cleaned her son's room, Rita came across an old family photo.
+  - 修改後: Cleaning her son's room, Rita came across an old family photo.
+  - 原句:   Because it didn't know how to get out of the cage, the dog barked angrily.
+  - 修改後: Not knowing how to get out of the cage, the dog barked angrily.
+  - 原句:   Before she goes to her office, Amanda always gets a cup of coffee at the convenience store.
+  - 修改後: Before going to her office, Amanda always gets a cup of coffee at the convenience store.
+- ### L9
+  - 被動 + 虛主詞
+  - It's said/believed/reported/...that + S + V ...
+  - It is believed that owning a pet helps reduce stress.
+  - It is reported that thirteen people have been killed in the gunfire.
