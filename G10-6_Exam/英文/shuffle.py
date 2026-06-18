@@ -1,6 +1,6 @@
 import random
 
-def shuffle_file(input_path: str, output_path: str) -> None:
+def shuffle_file(input_path: str) -> None:
     try:
         with open(input_path, 'r', encoding='utf-8') as f:
             lines = f.readlines()
@@ -36,17 +36,15 @@ def shuffle_file(input_path: str, output_path: str) -> None:
         # 最後處理剩餘的 buffer
         flush_buffer()
 
-        with open(output_path, 'w', encoding='utf-8') as f:
+        with open(input_path, 'w', encoding='utf-8') as f:
             f.writelines(final_output)
             
-        print(f"成功！已處理：{input_path} -> {output_path}")
+        print(f"成功！已處理：{input_path} -> {input_path}")
 
     except Exception as e:
         print(f"發生錯誤：{e}")
 
 if __name__ == "__main__":
     parent_folder = r"G10-6_Exam\英文\\"
-    target_file =   parent_folder + r"phrase.txt"
-    # save_file =     parent_folder + r"\單字書11-3.md"
-    save_file = target_file
-    shuffle_file(target_file, save_file)
+    target_file =   parent_folder + r"Month6.txt"
+    shuffle_file(target_file)
