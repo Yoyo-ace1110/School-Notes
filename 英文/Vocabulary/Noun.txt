@@ -103,3 +103,12 @@ cone 圓錐
 cord 繩 索 線
 cushion 座墊 靠墊
 fossil 化石
+handkerchief 手帕
+hanger 衣架
+gums 牙齦
+hook 鉤住 鉤子
+horn (動物頭上的)角/(車上的)喇叭
+hose 水管
+kettle 燒水壺
+knob 圓形門把
+lace 鞋帶/花邊
