@@ -1,6 +1,6 @@
 ## Vocabulary
 - alternative 替代方案、可供選擇的事物
-- foundation 基礎、地基、基金會
+- foundation 基礎、基金會、地基
 - conference 會議、研討會
 - fascination 著迷、強烈的吸引力
 - cooperate 合作、協作
@@ -11,6 +11,9 @@
 - occupy 佔用、佔據
 - fierce 激烈的、兇猛的
 - brand 品牌
+- regarding 關於
+- treadmill 跑步機
+- circulation (血液)循環
 - widespread 廣泛的、普遍的
 - philosophy 哲學、人生觀
 - temporary 暫時的、臨時的
@@ -18,6 +21,8 @@
 - series 一系列、一連串
 - launch 發射、發布、推出
 - broad 寬廣的、廣泛的
+- tend (to) 往往會
+- fluid 流體
 
 ## Phrase
 - take on 承擔(責任/工作)、呈現(面貌)
@@ -25,7 +30,7 @@
 - hand out 分發、發放
 - think up 想出(主意/藉口)
 - as well as 以及、還有
-- come about 發生、產生
+- come about (意外的)發生
 - broaden …'s horizons 拓展…的視野
 
 ## Grammer
