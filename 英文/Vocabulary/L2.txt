@@ -217,4 +217,6 @@ greet 招呼 迎接 問候
 quarrel 爭吵 不和
 copper 銅/銅板/紅銅色的
 cotton 棉花 棉線 棉布
-faucet 水龍頭 (或是cap)
+faucet 水龍頭 (或是tap)
+scarf 圍巾 領巾 披巾 頭巾
+socket 插座

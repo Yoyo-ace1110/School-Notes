@@ -112,3 +112,6 @@ hose 水管
 kettle 燒水壺
 knob 圓形門把
 lace 鞋帶/花邊
+perfume 香水
+screw 螺絲/鎖緊;轉緊
+shovel 鏟子
